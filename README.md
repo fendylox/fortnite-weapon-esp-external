@@ -1,4 +1,8 @@
 # weapon-esp-external
+ заходите в наш дискорд сервер https://discord.com/invite/B6xbr4r8Ze
+ ----------------------------------------
+ join our discord server https://discord.com/invite/B6xbr4r8Ze
+ ----------------------------------------
 ud (weapon esp external) by Clix#0001
 GetNameFromFName
 ----------------------------------
