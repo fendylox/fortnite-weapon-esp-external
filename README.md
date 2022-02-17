@@ -1,4 +1,4 @@
-# weapon-esp-external XD
+# weapon-esp-external
  join discord server https://discord.com/invite/B6xbr4r8Ze
  ----------------------------------------
 ud (weapon esp external) by Clix#0001
